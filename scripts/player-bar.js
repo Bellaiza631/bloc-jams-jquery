@@ -26,7 +26,6 @@
 
   });
 
-<<<<<<< HEAD
   $('#time-control input').on('input', function (event) {
     player.skipTo(event.target.value);
    });
@@ -45,7 +44,5 @@
      player.setVolume(event.target.value);
    });
 
-=======
->>>>>>> 10-bloc-jams-jquery-player-bar-buttons
 
 }
